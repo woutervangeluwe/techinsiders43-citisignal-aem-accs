@@ -1,11 +1,3 @@
-GraphQL API Endpoint
-https://na1-sandbox.api.commerce.adobe.com/NMMKQdSCpMYgFDvXyh6Dg7/graphql
-Generate
-Copy
-
-Enable B2B Features (commerce-b2b-enabled, commerce-companies-enabled)
-ACCS configuration generated successfully!
-
 {
   "public": {
     "default": {
