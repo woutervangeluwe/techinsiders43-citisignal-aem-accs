@@ -1475,6 +1475,7 @@
             isFeatureEnabled() {
                 return this.isEnabled || this.initializeStorage(), this.isEnabled
             }
+            
             startNewSession(t, e, n) {
                 if (!this.isEnabled) return "";
                 try {

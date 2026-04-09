@@ -28,6 +28,7 @@ window.styleConfiguration = {
         },
       ],
     },
+    
     chatTranscript: {
       enabled: true,
       maxSessions: 1,
