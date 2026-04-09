@@ -10,6 +10,9 @@
  * governing permissions and limitations under the License.
  */
 
+/*
+coming from gp - skp
+*/
 
 (function () {
   'use strict';

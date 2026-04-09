@@ -1,3 +1,6 @@
+/*
+coming from gp -skp
+*/
 window.styleConfiguration = {
   metadata: {
     brandName: "CitiSignal",
@@ -28,7 +31,7 @@ window.styleConfiguration = {
         },
       ],
     },
-    
+
     chatTranscript: {
       enabled: true,
       maxSessions: 1,
